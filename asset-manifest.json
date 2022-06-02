@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anjandatt/weather.git/static/css/main.910078b9.css",
+    "main.js": "/anjandatt/weather.git/static/js/main.c78482db.js",
+    "static/media/warm.jpg": "/anjandatt/weather.git/static/media/warm.d71ab98854113337b971.jpg",
+    "static/media/cold.jpg": "/anjandatt/weather.git/static/media/cold.3ea7f1109addc791ca67.jpg",
+    "index.html": "/anjandatt/weather.git/index.html",
+    "main.910078b9.css.map": "/anjandatt/weather.git/static/css/main.910078b9.css.map",
+    "main.c78482db.js.map": "/anjandatt/weather.git/static/js/main.c78482db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910078b9.css",
+    "static/js/main.c78482db.js"
+  ]
+}
